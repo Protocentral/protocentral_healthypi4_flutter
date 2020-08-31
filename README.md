@@ -1,2 +1,3 @@
-# protocentral_healthypi4_flutter
-Flutter code for the BLE companion app for the HealthyPi 4 monitor
+# ProtoCentral HealthyPi Connect App
+
+BLE companion app for iOS and Android for use with HealthyPi v4

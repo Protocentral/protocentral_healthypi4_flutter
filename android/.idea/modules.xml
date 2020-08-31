@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$USER_HOME$/developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.1+1/android/android-flutter_blue.iml" filepath="$USER_HOME$/developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.7.1+1/android/android-flutter_blue.iml" group="android/flutter_blue" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://$USER_HOME$/developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.6.3+1/android/flutter_blue.iml" filepath="$USER_HOME$/developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue-0.6.3+1/android/flutter_blue.iml" group="android/flutter_blue" />
+      <module fileurl="file://$USER_HOME$/developer/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+16/android/package_info.iml" filepath="$USER_HOME$/developer/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+16/android/package_info.iml" group="android/package_info" />
+    </modules>
+  </component>
+</project>
