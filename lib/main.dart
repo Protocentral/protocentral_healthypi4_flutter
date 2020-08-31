@@ -17,8 +17,6 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:flutter_ble_lib/flutter_ble_lib.dart';
 
 void main() async {
-  SyncfusionLicense.registerLicense(
-      "NT8mJyc2IWhia31ifWN9ZmRoYmF8YGJ8ampqanNiYmlmamlmanMDHmgyIDskOj0TMDohMCY6JzYwJyB9MDw+");
   runApp(MyApp());
 }
 

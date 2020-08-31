@@ -16,8 +16,8 @@ dependencies:
   package_info: ^0.4.0+10
   charts_flutter: ^0.8.1
   flutter_launcher_icons: ^0.7.3
-  syncfusion_flutter_charts: 18.1.46
-  syncfusion_flutter_core: 18.1.46
+  syncfusion_flutter_charts: ^18.2.47
+  syncfusion_flutter_core: ^18.2.47
   flutter_ble_lib: ^2.2.5
   permission_handler: ^5.0.1
 
